@@ -1,6 +1,6 @@
 This is the final Project for EECSE 6893 Big Data Analytics Fall 2016. Our group members are XiangbingJi(xj2178), Jingyi Yuan(jy2736), Xinzhe Yu(xy2282). Our topic is NYC Taxi data analysis. 
 
-Usage:
+###Usage:
 
 The front-end is all wrapped in the front-end folder. You can clone the repo and run localhost in the front-end folder's index.html to test the front-end. The front-end is also deployed on the AWS cloud, you can check our front-end by the link: http://big-data-2016-1298.s3-website-us-east-1.amazonaws.com/#/ 
 
