@@ -13,6 +13,6 @@ The data folder has two files. One is the output for the GMM model and another i
 The dataset link:http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
 ###How to visit our APP:
-The front-end is also deployed on the AWS cloud, you can check our front-end by the link: http://big-data-2016-1298.s3-website-us-east-1.amazonaws.com/#/  Click on the navgation bar to choose among different sections. You can find detailed explanation of our website in our Youtube video.
+The front-end is also deployed on the AWS cloud, you can check our front-end by the link: http://big-data-2016-1298.s3-website-us-east-1.amazonaws.com/#/. Click on the navgation bar to choose among different sections. You can find detailed explanation of our website in our Youtube video: https://www.youtube.com/watch?v=VZkNLoQlu-E&feature=youtu.be.
 
 Copyright@XiangbingJi,JingyiYuan,XinzheYu 2016
